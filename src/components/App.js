@@ -65,8 +65,8 @@ export class App extends Component{
             // console.log(window.location.href);
             return (
                 <div ref={el => (this.div = el)}>
-                    <LoginPage/>
-                    {/*<HomePage/>*/}
+                    {/*<LoginPage/>*/}
+                    <HomePage/>
 
                 </div>
             );

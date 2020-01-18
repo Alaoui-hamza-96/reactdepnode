@@ -42,8 +42,8 @@ class BodyContainer extends Component{
 
         return (
             <div className="w-full bg-indigo-100">
-                {/*{bodySection()}*/}
-                <Quiz/>
+                {bodySection()}
+                {/*<Quiz/>*/}
             </div>
         );
     }
