@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e2b23c60-f63f-40d1-ac10-4f99bd40709b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BodyContainer/BodyContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BodyContainer/BodyContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +74,7 @@
       <workItem from="1566722208513" duration="1082000" />
       <workItem from="1566723921078" duration="15722000" />
       <workItem from="1579178136314" duration="1320000" />
-      <workItem from="1579375982221" duration="2726000" />
+      <workItem from="1579375982221" duration="3526000" />
     </task>
     <servers />
   </component>
